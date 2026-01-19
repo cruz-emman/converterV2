@@ -162,8 +162,8 @@ const Page = () => {
             label="Sem"
             onChange={handleSem}
           >
-            <MenuItem value={"1STSEM"}>1st</MenuItem>
-            <MenuItem value={"2NDSEM"}>2nd</MenuItem>
+            <MenuItem value={"1stSem"}>1st</MenuItem>
+            <MenuItem value={"2ndSem"}>2nd</MenuItem>
             <MenuItem value={"MidYear"}>MidYear</MenuItem>
           </Select>
         </FormControl>
