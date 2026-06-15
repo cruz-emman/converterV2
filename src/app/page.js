@@ -164,7 +164,7 @@ const Page = () => {
           >
             <MenuItem value={"1stSem"}>1st</MenuItem>
             <MenuItem value={"2ndSem"}>2nd</MenuItem>
-            <MenuItem value={"MidYear"}>MidYear</MenuItem>
+            <MenuItem value={"Midyear"}>Midyear</MenuItem>
           </Select>
         </FormControl>
 
